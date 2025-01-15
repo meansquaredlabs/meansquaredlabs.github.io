@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Pascal Baur and I am a Sales Engineer at Snowflake who specializes in data analytics and artificial intelligence.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will be sharing my knowledge with you and talk about topics relating to data, analytics and artificial intelligence. My goal is to share and educate through articles and demos.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[baurpas@gmail.com](mailto:email@domain.com)

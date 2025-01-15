@@ -86,15 +86,4 @@ exclude:
   - CNAME
 
 
-excerpt_separator: "<!--more-->"
-
-prose:
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-  media: "images"
-
 future: true
